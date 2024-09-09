@@ -1,4 +1,3 @@
-# M2GDL-Multi-Manifold-Guided-Dictionary-Learning-based-Over-Sampling
 imbalanced learning is one of the main challenges of classification in real world problems. 
 This challenge occurs when the number of examples of the majority class is more than the number of examples of the minority class.
 Fraud detection, image segmentation, network intrusion detection, disease detection, etc. are all imbalanced problems.
@@ -22,18 +21,6 @@ generation method is achieved through the iterative solution of an optimization 
 samples are then validated based on their proximity to the minority-class combinatorial
 manifold.
 
-## Figures
-
-<p align="center">
-  <img src="2.jpg" >
-  <br>
- </p>
-
-<p align="center">
-  <img src="3.jpg" ">
-  <br>
- </p>
-
 To run the simulation of this research, you must first install the Matlab toolbox for dimensionality reduction
 via https://lvdmaaten.github.io/drtoolbox/. 
 In this research, the dimension reduction toolbox was used only for unsupervised linear mapping of imbalanced data,
@@ -41,11 +28,10 @@ and the dimension reduction operation was not performed on the data.
 Then run the over_sampling_program.m file. 
 For each specific dataset, you must execute its loading command and after over-sampling, see the classifier performance criteria.
 
-## Citation
 
 If you find M2GDL-Multi-Manifold Guided Dictionary Learning based Over-Sampling useful in your research, please consider citing our paper:
 
 M2GDL: Multi-Manifold Guided Dictionary Learning Based Over Sampling and Data Validation for Highly Imbalanced Classification Problems, 
 T Feizi, MH Moattar, H Tabatabaee, Journal of  Information Sciences,  Jul 31, 2024.
 
-[Link to the paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025524011940?dgcid=author)
+https://www.sciencedirect.com/science/article/abs/pii/S0020025524011940?dgcid=author
