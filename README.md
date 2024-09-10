@@ -6,11 +6,8 @@
 </p>
 
 ## Applications
-- imbalanced learning is one of the main challenges of classification in real world problems. 
-This challenge occurs when the number of examples of the majority class is more than the number of examples of the minority class.
-Fraud detection, image segmentation, network intrusion detection, disease detection, etc. are all imbalanced problems.
-Therefore, the approach of this research can be used in real world problems.
-- If you are interested in imbalanced learning, you can improve the proposed approach and use its results in your research or in real-world problems.
+- imbalanced learning is one of the most difficult categorization challenges in real-world applications. This problem comes when the majority class has more instances than the minority class. Fraud detection, image segmentation, network intrusion detection, disease diagnosis, and other similar challenges are all imbalanced. As a result, the approach developed in this study can be applied to real-world challenges.
+- If you are interested in imbalanced learning, you can refine the proposed approach and apply the results to your study or real-world issues.
 
 ## Overview
 Lack of diversity in synthetic data and inaccurate approximations of the minority class distribution
@@ -62,7 +59,7 @@ see the classifier performance criteria.
 
   
 ## Citation
-If you use this code for your research, please cite the following paper:
+If you use this code in your research or projects, please cite the following paper:
 
 M2GDL: Multi-Manifold Guided Dictionary Learning Based Over Sampling and Data Validation for Highly Imbalanced Classification Problems, 
 T Feizi, MH Moattar, H Tabatabaee, Journal of  Information Sciences,  Jul 31, 2024.
